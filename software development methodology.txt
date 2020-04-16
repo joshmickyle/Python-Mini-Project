@@ -1,0 +1,14 @@
+The software development methodology i chose was SCRUM. SCRUM is a agile technique.
+The reason why i chose this technique was because of the sprints. SCRUM is modelled around
+spliting the work up in sections and sprinting through the sections. After sprinting through a
+section, a sprint review is held. The review is held to inspect the work. It also has daily plannings
+where the days work is decided.
+
+I chose SCRUM because i split the task into different sections then planned how i would code that specific
+section. Once i was finished with each section i checked to see how each of them worked. I then created
+an extra section to my code which joined all the other parts together at the bottom on the py file.
+
+The advantage of this function was that i could adapt to any problems i encountered, which means flexibility is 
+high in this technique.
+
+The disadvantage was that my code had a lot of extra lines which wouldnt have to be their if i changed my methodology.
