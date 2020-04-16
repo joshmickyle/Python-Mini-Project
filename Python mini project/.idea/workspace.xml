@@ -22,10 +22,10 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Documents/Josh-Mickyle Baron Class 2/Python mini project" />
   </component>
-  <component name="RunManager" selected="Python.Lottery_challenge (1)">
-    <configuration name="Lottery_challenge (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.Main (1)">
+    <configuration name="Age_validation" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python mini project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -37,7 +37,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lottery_challenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Age_validation.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -46,7 +46,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Lottery_challenge" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Main (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python mini project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -58,7 +58,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="C:\Users\Josh\PycharmProjects\Python mini project\Lottery_challenge.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -67,7 +67,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tester" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python mini project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -79,7 +79,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tester.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Josh\PycharmProjects\Python mini project\Main.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -88,7 +88,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="tester23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Official_numbers" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="Python mini project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,7 +100,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tester23.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Official_numbers.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -109,7 +109,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Doctests in Lottery_challenge" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
+    <configuration name="Prize_money" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Python mini project" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Prize_money.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Doctests in Main" type="tests" factoryName="Doctests" temporary="true" nameIsGenerated="true">
       <module name="Python mini project" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,7 +139,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Lottery_challenge.py" />
+      <option name="SCRIPT_NAME" value="C:\Users\Josh\PycharmProjects\Python mini project\Main.py" />
       <option name="CLASS_NAME" value="" />
       <option name="METHOD_NAME" value="" />
       <option name="FOLDER_NAME" value="" />
@@ -129,11 +150,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Lottery_challenge (1)" />
-        <item itemvalue="Python.tester" />
-        <item itemvalue="Python tests.Doctests in Lottery_challenge" />
-        <item itemvalue="Python.Lottery_challenge" />
-        <item itemvalue="Python.tester23" />
+        <item itemvalue="Python.Main (1)" />
+        <item itemvalue="Python.Age_validation" />
+        <item itemvalue="Python.Prize_money" />
+        <item itemvalue="Python.Official_numbers" />
+        <item itemvalue="Python.Main" />
       </list>
     </recent_temporary>
   </component>
@@ -155,22 +176,26 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="92" y="92" width="1736" height="896" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587032821882" />
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1587055737267">
+    <state x="740" y="294" key="FileChooserDialogImpl" timestamp="1587062344824">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587055737267" />
-    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1587055737267">
+    <state x="740" y="294" key="FileChooserDialogImpl/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587062344824" />
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom" timestamp="1587061860263">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587055737267" />
-    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1587055737267">
+    <state width="1899" height="295" key="GridCell.Tab.0.bottom/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587061860263" />
+    <state width="1899" height="295" key="GridCell.Tab.0.center" timestamp="1587061860263">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587055737267" />
-    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1587055737267">
+    <state width="1899" height="295" key="GridCell.Tab.0.center/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587061860263" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left" timestamp="1587061860263">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587055737267" />
+    <state width="1899" height="295" key="GridCell.Tab.0.left/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587061860263" />
+    <state width="1899" height="295" key="GridCell.Tab.0.right" timestamp="1587061860263">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1899" height="295" key="GridCell.Tab.0.right/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587061860263" />
     <state width="1899" height="363" key="GridCell.Tab.1.bottom" timestamp="1587055030307">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -187,9 +212,9 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1899" height="363" key="GridCell.Tab.1.right/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587055030307" />
-    <state x="655" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1587055677796">
+    <state x="655" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1587062314506">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="655" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587055677796" />
+    <state x="655" y="363" key="com.intellij.ide.util.TipDialog/0.0.1920.1080/1920.247.1366.768@0.0.1920.1080" timestamp="1587062314506" />
   </component>
 </project>
